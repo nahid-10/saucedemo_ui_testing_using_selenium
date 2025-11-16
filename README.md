@@ -1,4 +1,4 @@
-# Saucedemo Automation Using Selenium
+# Saucedemo website Automation Using Selenium
 
 This project demonstrates an automated workflow on the Saucedemo website using Selenium and undetected_chromedriver. The automation covers logging in, adding a product to the cart, checking the cart, and logging out.
 
